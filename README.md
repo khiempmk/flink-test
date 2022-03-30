@@ -100,7 +100,9 @@ Very first user-case, the word count problem is one that is commonly used to sho
 
 #### Submit job to cluster
 
+    
 
+    same as above, main class: app.kyber.krystal.commons.test.flink.twitter.TwitterStreamApp
 
 
 ##References:
